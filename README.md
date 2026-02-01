@@ -22,25 +22,26 @@ I’ve worked on **production-level platforms**, led technical teams, and enjoy 
 ## 🚀 Featured Projects
 
 ### 🔹 MERN Service Listing Platform (OTP Auth)
-🌐 **Live:** https://your-project-link.com  
-💻 **Code:** https://github.com/your-username/project-repo  
-- City-based bus listing with filters, **OTP login**, WhatsApp CTA, and **admin approval system**
+🌐 **Live:** https://touristbus.onrender.com/  
+- City-based bus listing with filters, **OTP-based login**, WhatsApp CTA, and an **admin approval system**
 - Designed for **monetization** (listing fees + future AdSense)
-- SEO-friendly, fully responsive UI with star-rating system
+- SEO-friendly, fully responsive UI with **star-rating system**
+
+---
 
 ### 🔹 Official College Website
-🌐 **Live:** https://your-college-website-link.com  
-💻 **Code:** https://github.com/your-username/college-website  
-- Built and deployed the **official university website**
-- Features: grievance system, announcements, gallery, admin panel
-- Backend powered by **PHP + MySQL** for dynamic content management
+🌐 **Live:** https://www.aucetk.edu.in/  
+- Built and deployed the **official university college website**
+- Features: grievance redressal, announcements, gallery, contact modules
+- Backend with **PHP + MySQL** for dynamic content management
+
+---
 
 ### 🔹 MERN Marketplace for Catering Professionals
-🌐 **Live:** https://your-marketplace-link.com  
-💻 **Code:** https://github.com/your-username/marketplace-repo  
-- Platform connecting caterers with event organizers
-- City-based search, secure authentication, star ratings, WhatsApp CTA
-- Focused on fast hiring and usability
+🌐 **Live:** https://cateringboys0.onrender.com/  
+- Platform connecting catering professionals with event organizers
+- City-based search, secure authentication, **star ratings**, WhatsApp CTA
+- Optimized for **fast hiring and usability**
 
 ---
 
@@ -48,7 +49,7 @@ I’ve worked on **production-level platforms**, led technical teams, and enjoy 
 
 **College Web Team Lead – Lead Developer**  
 UCE Thirukkuvalai | Sep 2023 – Present  
-- Led a **4-member team** managing the official college website  
+- Led a **4-member team** maintaining the official college website  
 - Mentored juniors through web development workshops  
 - Coordinated frontend & backend work for campus-wide events
 
@@ -57,7 +58,8 @@ UCE Thirukkuvalai | Sep 2023 – Present
 ## 🏆 Achievements
 
 - 🥇 **Academic Excellence Award** – Lead Website Developer  
-- 🏑 Represented **Tamil Nadu** in State-Level Hockey Championship  
+- 🏑 Represented **Tamil Nadu** in the State-Level Hockey Championship  
+- 🎤 Delivered a **guest lecture** on *Modern Web Development with MERN Stack* (100+ students)
 
 ---
 
@@ -72,7 +74,7 @@ UCE Thirukkuvalai | Sep 2023 – Present
 
 ## 📫 Contact
 
-📧 Email: gowthamkvdl@gmail.com  
+📧 Email: gowthamofficial7010@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/gowthamkvdl  
 🔗 Portfolio: https://portfolio-qwe8.onrender.com  
 
