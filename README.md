@@ -1,7 +1,6 @@
 # Hi 👋 I'm Gowtham K
 
 💻 **Final-Year CSE Student | Full-Stack Developer (MERN)**  
-🎓 University College of Engineering, Panruti (2022–2026) | CGPA: 7.5
 
 I’m a **results-driven Full Stack Developer** specializing in the **MERN stack**, with strong fundamentals in **TypeScript, REST APIs, and Data Structures & Algorithms**. I focus on building **scalable, real-world applications**, not toy projects or copy-paste tutorials.
 
@@ -53,7 +52,6 @@ UCE Thirukkuvalai | Sep 2023 – Present
 
 - 🥇 **Academic Excellence Award** – Lead Website Developer  
 - 🏑 Represented **Tamil Nadu** in State-Level Hockey Championship  
-- 🎤 Delivered a **guest lecture** on *Modern Web Development with MERN Stack* (100+ attendees)
 
 ---
 
@@ -70,6 +68,7 @@ UCE Thirukkuvalai | Sep 2023 – Present
 
 📧 Email: gowthamkvdl@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/gowthamkvdl  
+🔗 Portfolio: https://portfolio-qwe8.onrender.com  
 
 ---
 
