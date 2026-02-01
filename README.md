@@ -23,6 +23,7 @@ I’ve worked on **production-level platforms**, led technical teams, and enjoy 
 
 ### 🔹 MERN Service Listing Platform (OTP Auth)
 🌐 **Live:** https://touristbus.onrender.com/  
+💻 **Code:** https://github.com/Gowthamkvdl/tourist_bus   
 - City-based bus listing with filters, **OTP-based login**, WhatsApp CTA, and an **admin approval system**
 - Designed for **monetization** (listing fees + future AdSense)
 - SEO-friendly, fully responsive UI with **star-rating system**
@@ -39,6 +40,7 @@ I’ve worked on **production-level platforms**, led technical teams, and enjoy 
 
 ### 🔹 MERN Marketplace for Catering Professionals
 🌐 **Live:** https://cateringboys0.onrender.com/  
+💻 **Code:** https://github.com/Gowthamkvdl/catring_project_rebirth  
 - Platform connecting catering professionals with event organizers
 - City-based search, secure authentication, **star ratings**, WhatsApp CTA
 - Optimized for **fast hiring and usability**
