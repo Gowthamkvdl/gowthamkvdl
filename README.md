@@ -22,16 +22,22 @@ I’ve worked on **production-level platforms**, led technical teams, and enjoy 
 ## 🚀 Featured Projects
 
 ### 🔹 MERN Service Listing Platform (OTP Auth)
+🌐 **Live:** https://your-project-link.com  
+💻 **Code:** https://github.com/your-username/project-repo  
 - City-based bus listing with filters, **OTP login**, WhatsApp CTA, and **admin approval system**
 - Designed for **monetization** (listing fees + future AdSense)
 - SEO-friendly, fully responsive UI with star-rating system
 
 ### 🔹 Official College Website
+🌐 **Live:** https://your-college-website-link.com  
+💻 **Code:** https://github.com/your-username/college-website  
 - Built and deployed the **official university website**
 - Features: grievance system, announcements, gallery, admin panel
 - Backend powered by **PHP + MySQL** for dynamic content management
 
 ### 🔹 MERN Marketplace for Catering Professionals
+🌐 **Live:** https://your-marketplace-link.com  
+💻 **Code:** https://github.com/your-username/marketplace-repo  
 - Platform connecting caterers with event organizers
 - City-based search, secure authentication, star ratings, WhatsApp CTA
 - Focused on fast hiring and usability
